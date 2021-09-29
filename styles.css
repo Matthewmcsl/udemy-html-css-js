@@ -1,0 +1,18 @@
+.icon-bar {
+    float: right;
+    right: 0px;
+    opacity: 0.75;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+.linkedin {
+    background: #007bb5;
+    color: blue;
+  }
+
+.github {
+    background: #007bb5;
+    color: blue;
+  }
