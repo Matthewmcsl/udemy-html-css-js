@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+  }
+
+div {
+    background-color: white;
+    opacity: 0.8;
+}
+
+.grid-container {
+    border: 30px white;
+    grid-gap: 30px;
+    background-color: #2196F3;
+    padding: 30px;
+}
